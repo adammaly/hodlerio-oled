@@ -27,3 +27,8 @@ For the code with the config note:
 | VCC     | 3V (some boards say 3.3V |
 | SCL (Sometimes SCK)    | D5 |
 | SDA     | D3 |
+
+
+### Images
+![alt text](https://hodlerio.cz/CryptoDisplay/1.jpg "Display 4")
+![alt text](https://hodlerio.cz/CryptoDisplay/2.jpg "Display 5")
