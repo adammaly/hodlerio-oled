@@ -15,7 +15,6 @@ For the code with the config note:
 * change the SSID
 * WiFi password
 * Currency in which you want to display data (acceptable values: usd, eur or czk)
-* in which currency you want to display the exchange rate
 * api key and secret key (you can generate in your user account in hodlerio)
 * check fingerprint
 
