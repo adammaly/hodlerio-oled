@@ -30,5 +30,5 @@ For the code with the config note:
 
 
 ### Images
-![alt text](https://hodlerio.cz/CryptoDisplay/1.jpg "Display 4")
-![alt text](https://hodlerio.cz/CryptoDisplay/2.jpg "Display 5")
+![alt text](https://hodlerio.cz/CryptoDisplay/4.jpg "Display 1")
+![alt text](https://hodlerio.cz/CryptoDisplay/5.jpg "Display 2")
