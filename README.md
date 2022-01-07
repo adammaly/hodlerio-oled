@@ -23,7 +23,7 @@ For the code with the config note:
 | Pin On Display| Pin on ESP8266 |
 | ------------- |----------------|
 | GND     | G |
-| VCC     | 3V (some boards say 3.3V |
+| VCC     | 3V (some boards say 3.3V) |
 | SCL (Sometimes SCK)    | D5 |
 | SDA     | D3 |
 
