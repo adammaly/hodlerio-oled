@@ -12,7 +12,7 @@ char ssid[] = "Your_SSID";          // your network SSID (name)
 char password[] = "password";  // your network key
 String secret_key = "Your-secret-key";
 String api_key = "Your-api-key";
-String currency = "usd";
+String currency = "usd"; //usd, eur or czk
 const char fingerprint[] PROGMEM = "2D 9D FB DD EA CC C8 0E 0C 5B 11 A0 EA EC 6F 89 E9 14 DC 08"; //sha1 https fingerprint
 // Pins based on your wiring
 #define SCL_PIN D5
