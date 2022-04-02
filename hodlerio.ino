@@ -13,7 +13,7 @@ char password[] = "password";  // your network key
 String secret_key = "Your-secret-key";
 String api_key = "Your-api-key";
 String currency = "usd"; //usd, eur or czk
-const char fingerprint[] PROGMEM = "2D 9D FB DD EA CC C8 0E 0C 5B 11 A0 EA EC 6F 89 E9 14 DC 08"; //sha1 https fingerprint
+const char fingerprint[] PROGMEM = "40 32 CB E5 63 52 C8 F5 77 C2 84 5E D5 DA 76 12 61 10 D5 1E"; //sha1 https fingerprint
 // Pins based on your wiring
 #define SCL_PIN D5
 #define SDA_PIN D3
